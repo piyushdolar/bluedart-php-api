@@ -3,7 +3,7 @@ Bluedart courier PHP api, it'll use to develop code it also can be used in any P
 
 Requirements:
 + PHP version 5.7 >.
-+ Soal must be installed on server.
++ Soap Extention must be installed on server.
 
 Installation:
 1. Download all files.
