@@ -10,7 +10,7 @@ Installation:
 5. That's it.
 
 Tracking API:
-Link: https://api.bluedart.com/servlet/RoutingServlet?handler=tnt&action=custawbquery&loginid=BOM00001&awb=awb&numbers=15616373625&format=xml&lickey=4ecbd06dc0b9737d69120029cb05c9df&verno=1.3&scan=0
++ https://api.bluedart.com/servlet/RoutingServlet?handler=tnt&action=custawbquery&loginid=BOM00001&awb=awb&numbers=15616373625&format=xml&lickey=4ecbd06dc0b9737d69120029cb05c9df&verno=1.3&scan=0
 + Just replace with your bluedart id/pass.
 
 
