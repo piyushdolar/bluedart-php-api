@@ -2,7 +2,7 @@
 Bluedart courier PHP api, it'll use to develop code it also can be used in any PHP Framework, just copy and past classes easy to use.
 
 <b>Requirements:</b>
-+ PHP version 5.7 >.
++ PHP version > 5.7
 + Soap Extention must be installed on server.
 
 <b>Installation:</b>
