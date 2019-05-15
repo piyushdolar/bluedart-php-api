@@ -18,6 +18,3 @@ Bluedart courier PHP api, it'll use to develop code it also can be used in any P
 + Follow up with below code to get current tracking id status<br>
   + $url = 'https://api.bluedart.com/servlet/RoutingServlet?handler=tnt&action=custawbquery&loginid='.BD_LOGIN_ID.'&awb=awb&numbers='.$id.'&format=xml&lickey='.BD_TRACK_API_KEY.'&verno=1.3&scan=0';
   + $xml = simplexml_load_file($url);  
-
-<b>Supports:</b>
-+ Pull requrest to get your answer.
