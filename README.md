@@ -1,4 +1,4 @@
-# bluedart-php-api
+# BlueDart PHP Integration API Guide/Code
 Bluedart courier PHP api, it'll use to develop code it also can be used in any PHP Framework, just copy and past classes easy to use.
 
 <b>Requirements:</b>
